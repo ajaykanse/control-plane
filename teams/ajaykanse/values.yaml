@@ -1,0 +1,8 @@
+email: akanse@redhat.com
+cluster: workshop
+namespaces:
+- dev
+- stage
+- prod
+repos:
+- demo-app-deploy
